@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bebek Giyim Asistanı</string>
+    <string name="send_button">Gönder</string>
+    <string name="message_hint">Sorunuzu yazın...</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="error">Bir hata oluştu</string>
+</resources>

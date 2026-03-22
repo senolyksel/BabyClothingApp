@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6B9D</color>
+    <color name="colorPrimaryDark">#FF5A8A</color>
+    <color name="colorAccent">#FFD700</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="lightGray">#F5F5F5</color>
+    <color name="userMessageBg">#FF6B9D</color>
+    <color name="aiMessageBg">#F0F0F0</color>
+    <color name="discountBg">#FF4444</color>
+</resources>
